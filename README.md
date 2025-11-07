@@ -37,3 +37,7 @@ All the `*.md` files are part of the presentation.
 * email: josef@pospisil.work
 * phone (WA, Signal ..): +420 774 278 707
 
+## Test
+
+https://forms.gle/16JoW4DLJLghooRJ7
+
